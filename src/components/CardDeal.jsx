@@ -8,6 +8,7 @@ const CardDeal = () => (
         <h2 className={styles.heading2}>Find a card deal <br className='sm:block hidden' />in few easy steps.</h2>
         <p className={`${styles.paragraph} max-w-[480px] mt-5`} >
         There's only one way under high heaven to get anybody to do anything. Did you ever stop to think of that? Yes, just one way. And that is by making the other person want to do it.
+        Do you plan on making other people want to do things the right way?
         </p>
         <Button styles="mt-10"/>
       </div>
